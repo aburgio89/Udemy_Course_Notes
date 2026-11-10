@@ -11,7 +11,7 @@ What exactly is Linux?
 And what exactly is that??? Let's break it down:
 * **OS** -> System software that manages computer hardware and provides services for computer programs. 
 * **Unix** -> Multitask, multi-user OS that serves as the base for modern OS.
-	* Multitasking --> Multiple programs can run simulataneously.
+	* Multitasking --> Multiple programs can run simultaneously.
 	* Multi-user --> Allows for multiple levels of user privilege.
 * **Kernel** -> The core part of an OS, responsible for managing hardware (CPU, memory, graphics, etc.)
 ___
@@ -32,7 +32,7 @@ VirtualBox --> Oracle developed, free virtualization software.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNj
-MxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1
-OV19
+eyJoaXN0b3J5IjpbLTU0NjM0MzQ2NCwtMzI2OTE1MTYxLDEwNT
+E0ODYzNjMsMjI2MzE0NTk4LDEwODE1OTU3OTYsMTkyNzE0NjM0
+MiwxMjg1NDgzMTU5XX0=
 -->
