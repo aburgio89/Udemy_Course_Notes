@@ -22,11 +22,14 @@ Linux distributions:
 	* **CentOS Stream** -> Part of the "Red Hat" family. Recommended for large scale projects and servers storing sensitive information. 
 
 ***Sidenote:** How installing Ubuntu turned into an hour long troubleshooting session and what we learned from this experience.*
+
+Symptoms:
 * VirtualBox install of Ubuntu proceeded without issue, but running the VM caused various crashes. 
 * Received errors about incompatible hypervisor and graphics display.
 * Got through several times to desktop but install would not load.
 * Performance showed memory usage at steady 77-80%. 
-* **Verdict:** Windows security feature "memory integrity" causing a conflict with VirtualBox. This feature was disabled, the PC reset, and Ubuntu loaded properly (albeit slowly) on the next attempt. Recommend returning memory integrity setting to default when not using the VM. 
+
+ **Verdict:** Windows security feature "memory integrity" causing a conflict with VirtualBox. This feature was disabled, the PC reset, and Ubuntu loaded properly (albeit slowly) on the next attempt. 
 
 
 ### Part 2: Bash and CLI
@@ -38,7 +41,7 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMTEzODMwLC01NDYzNDM0NjQsLTMyNj
+eyJoaXN0b3J5IjpbNjM0MDgxNzU5LC01NDYzNDM0NjQsLTMyNj
 kxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2
 LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
 -->
