@@ -14,8 +14,9 @@ And what exactly is that??? Let's break it down:
 	* Multitasking --> Multiple programs can run simulataneously.
 	* Multi-user --> Allows for multiple levels of user privilege.
 * **Kernel** -> The core part of an OS, responsible for managing hardware (CPU, memory, graphics, etc.)
-
-
+___
+Linux distributions:
+* 
 
 
 
@@ -28,6 +29,6 @@ And what exactly is that??? Let's break it down:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MzE0NTk4LDEwODE1OTU3OTYsMTkyNz
-E0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbNDgwNjg1OTYyLDIyNjMxNDU5OCwxMDgxNT
+k1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
 -->
