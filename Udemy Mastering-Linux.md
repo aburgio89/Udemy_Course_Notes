@@ -17,8 +17,9 @@ And what exactly is that??? Let's break it down:
 ___
 Linux distributions:
 * A **distro** (distribution) is a complete package built around the Linux kernel. Each distro has its own tools, a package manager for installing software, and sometimes a desktop. 
-* Ubuntu is a common distro that is especially user-friendly.
-* CentOS Stream is a
+* This course focuses on two distros:
+	* **Ubuntu** -> Common and highly user-friendly.
+	* **CentOS Stream** -> Part of the "Red Hat" family. 
 
 
 
@@ -31,6 +32,6 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIyNTA4MTYsMjI2MzE0NTk4LDEwOD
-E1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbNjUwODkzNjI0LDIyNjMxNDU5OCwxMDgxNT
+k1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
 -->
