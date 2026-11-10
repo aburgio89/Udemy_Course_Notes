@@ -9,10 +9,13 @@ What exactly is Linux?
 > systems.
 
 And what exactly is that??? Let's break it down:
-* OS -> System software that manages computer hardware and provides services for computer programs. 
-* Unix -> Multitask, multi-user OS that serves as the base for modern OS.
+* **OS** -> System software that manages computer hardware and provides services for computer programs. 
+* **Unix** -> Multitask, multi-user OS that serves as the base for modern OS.
 	* Multitasking --> Multiple programs can run simulataneously.
-	* Multi-user --> Allows for multiple levels of 
+	* Multi-user --> Allows for multiple levels of user privilege.
+* **Kernel** -> The core part of an OS, responsible for managing hardware (CPU, memory, graphics, etc.)
+
+
 
 
 
@@ -25,6 +28,6 @@ And what exactly is that??? Let's break it down:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTc4ODY5NywxMDgxNTk1Nzk2LDE5Mj
-cxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbMjI2MzE0NTk4LDEwODE1OTU3OTYsMTkyNz
+E0NjM0MiwxMjg1NDgzMTU5XX0=
 -->
