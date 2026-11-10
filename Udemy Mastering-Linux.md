@@ -4,7 +4,12 @@ Instructors: Jannis Seemann, Denis Panjuta*
 
 ### Part 1: Introduction
 What exactly is Linux? 
-* Linux is the **kernal**
+
+> Linux is the **kernal** of a family of open-source Unix-like operating
+> systems.
+
+And what exactly is that??? Let's break it down:
+* OS -> System software that manages computer hardware and provides s
 
 
 
@@ -17,6 +22,6 @@ What exactly is Linux?
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzg0NDcyLDEwODE1OTU3OTYsMTkyNz
-E0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbLTE5MjQ1MTU4MDEsMTA4MTU5NTc5NiwxOT
+I3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
