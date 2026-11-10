@@ -6,16 +6,16 @@ Instructors: Jannis Seemann, Denis Panjuta*
 
 
 
-### Part 2: Bash and CLI
 
+### Part 2: Bash and CLI
 
 
 ### Part 3: Linux Concepts
 
 
-
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbMTA4MTU5NTc5NiwxOTI3MTQ2MzQyLDEyOD
+U0ODMxNTldfQ==
 -->
