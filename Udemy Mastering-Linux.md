@@ -21,7 +21,9 @@ Linux distributions:
 	* **Ubuntu** -> Common and highly user-friendly. Recommended for personal use. 
 	* **CentOS Stream** -> Part of the "Red Hat" family. Recommended for large scale projects and servers storing sensitive information. 
 
-VirtualBox --> Oracle developed, free virtualization software. 
+***Sidenote:** How installing Ubuntu turned into an hour long troubleshooting session and what we learned from this experience.*
+* VirtualBox install of Ubunt
+
 
 ### Part 2: Bash and CLI
 
@@ -32,7 +34,7 @@ VirtualBox --> Oracle developed, free virtualization software.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjM0MzQ2NCwtMzI2OTE1MTYxLDEwNT
-E0ODYzNjMsMjI2MzE0NTk4LDEwODE1OTU3OTYsMTkyNzE0NjM0
-MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbMTI5MTU2NDE4OCwtNTQ2MzQzNDY0LC0zMj
+Y5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5NTc5
+NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
