@@ -22,7 +22,11 @@ Linux distributions:
 	* **CentOS Stream** -> Part of the "Red Hat" family. Recommended for large scale projects and servers storing sensitive information. 
 
 ***Sidenote:** How installing Ubuntu turned into an hour long troubleshooting session and what we learned from this experience.*
-* VirtualBox install of Ubunt
+* VirtualBox install of Ubuntu proceeded without issue, but running the VM caused various crashes. 
+* Received errors about incompatible hypervisor and graphics display.
+* Got through several times to desktop but install would not load.
+* Performance showed memory usage at steady 77-80%. 
+* **Verdict:** 
 
 
 ### Part 2: Bash and CLI
@@ -34,7 +38,7 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTU2NDE4OCwtNTQ2MzQzNDY0LC0zMj
+eyJoaXN0b3J5IjpbMTY4NDA2NTUwNSwtNTQ2MzQzNDY0LC0zMj
 Y5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5NTc5
 NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
