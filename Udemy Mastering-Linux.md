@@ -18,8 +18,8 @@ ___
 Linux distributions:
 * A **distro** (distribution) is a complete package built around the Linux kernel. Each distro has its own tools, a package manager for installing software, and sometimes a desktop. 
 * This course focuses on two distros:
-	* **Ubuntu** -> Common and highly user-friendly.
-	* **CentOS Stream** -> Part of the "Red Hat" family. 
+	* **Ubuntu** -> Common and highly user-friendly. Recommended for personal use. 
+	* **CentOS Stream** -> Part of the "Red Hat" family. Recommended for large scale projects and servers storing sensitive information. 
 
 
 
@@ -32,6 +32,6 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwODkzNjI0LDIyNjMxNDU5OCwxMDgxNT
-k1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MT
+U5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
