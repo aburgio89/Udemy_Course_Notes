@@ -26,7 +26,7 @@ Linux distributions:
 * Received errors about incompatible hypervisor and graphics display.
 * Got through several times to desktop but install would not load.
 * Performance showed memory usage at steady 77-80%. 
-* **Verdict:** Windows security feature "memory integrity"
+* **Verdict:** Windows security feature "memory integrity" causing a conflict with VirtualBox. This feature was disabled, the PC reset, and Ubuntu loaded properly (albeit slowly) on the next attempt. Recommend returning memory integrity setting to default when not using the VM. 
 
 
 ### Part 2: Bash and CLI
@@ -38,7 +38,7 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDk4OTIzMiwtNTQ2MzQzNDY0LC0zMj
-Y5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5NTc5
-NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
+eyJoaXN0b3J5IjpbOTEyMTEzODMwLC01NDYzNDM0NjQsLTMyNj
+kxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2
+LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
 -->
