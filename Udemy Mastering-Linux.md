@@ -16,7 +16,8 @@ And what exactly is that??? Let's break it down:
 * **Kernel** -> The core part of an OS, responsible for managing hardware (CPU, memory, graphics, etc.)
 ___
 Linux distributions:
-* 
+* A **distro** (distribution) is a complete package built around the Linux kernel. Each distro has its own tools, a package manager for installing software, and sometimes a desktop. 
+* Common distro
 
 
 
@@ -29,6 +30,6 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjE3NTYwMiwyMjYzMTQ1OTgsMTA4MT
-U5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
+eyJoaXN0b3J5IjpbLTEyMTM3NjA2NDYsMjI2MzE0NTk4LDEwOD
+E1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
 -->
