@@ -21,7 +21,7 @@ Linux distributions:
 	* **Ubuntu** -> Common and highly user-friendly. Recommended for personal use. 
 	* **CentOS Stream** -> Part of the "Red Hat" family. Recommended for large scale projects and servers storing sensitive information. 
 
-
+VirtualBox --> Oracle developed, free virtualization software. 
 
 ### Part 2: Bash and CLI
 
@@ -32,6 +32,7 @@ Linux distributions:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MT
-U5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
+eyJoaXN0b3J5IjpbLTMyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNj
+MxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1
+OV19
 -->
