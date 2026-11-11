@@ -57,6 +57,7 @@ The terminal is always in a directory (folder) called the working directory. Thi
 	* By default, if the prompt starts with a tilde `~$`, you are in the root directory. 
 * The `cd` command stands for **change directory**. 
 	* Example, `cd Desktop` would move the terminal to the Desktop.
+	* `cd /` will change the working directory to the root folder. 
 
 
 
@@ -67,9 +68,9 @@ The terminal is always in a directory (folder) called the working directory. Thi
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzAwMjU5MCwtMzc5ODUxOTA5LC0xNz
-I5MzM1MTY5LC0xMjA0ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5
-MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMT
-A1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2
-MzQyLDEyODU0ODMxNTldfQ==
+eyJoaXN0b3J5IjpbMjc0NzEwMjUxLC0zNzk4NTE5MDksLTE3Mj
+kzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mzg2Njkw
+MDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMD
+UxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYz
+NDIsMTI4NTQ4MzE1OV19
 -->
