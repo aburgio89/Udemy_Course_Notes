@@ -21,15 +21,16 @@ Linux distributions:
 	* **Ubuntu** -> Common and highly user-friendly. Recommended for personal use. 
 	* **CentOS Stream** -> Part of the "Red Hat" family. Recommended for large scale projects and servers storing sensitive information. 
 ___
-***Sidenote:** How installing Ubuntu turned into an hour long troubleshooting session and what we learned from this experience.*
+***Sidenote:** How installing Ubuntu turned into a 2-hour long troubleshooting session and what we learned from this experience.*
 
 Symptoms:
 * VirtualBox install of Ubuntu proceeded without issue, but running the VM caused various crashes. 
 * Received errors about incompatible hypervisor and graphics display.
-* Got through several times to desktop but install would not load.
+* Cha
 * Performance showed memory usage at steady 77-80%. 
 
- **Verdict:** Windows virtualization security features forcing Windows default hypervisor? Disabled memory integrity and auto-hypervisor regedit settings. 
+ **Verdict:** Windows virtualization security features forcing Windows default hypervisor in between VirtualBox and hardware. Annoying, seemingly not able to disable, built into firmware. 
+ **Opted to continue the course using Ubuntu through WSL instead.** 
 ___
 
 CLI: `sudo apt update` -Checks for updates and downloads.
@@ -44,8 +45,8 @@ CLI: `sudo apt full-upgrade` -Installs updates.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MT
-E3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYz
-LDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NT
-Q4MzE1OV19
+eyJoaXN0b3J5IjpbLTg1OTcxNTQwNiw3NTg0OTc2NTIsMTczOD
+Y2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2NCwtMzI2OTE1MTYx
+LDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwODE1OTU3OTYsMTkyNz
+E0NjM0MiwxMjg1NDgzMTU5XX0=
 -->
