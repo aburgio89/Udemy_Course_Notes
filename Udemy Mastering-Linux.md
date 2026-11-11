@@ -69,7 +69,8 @@ The terminal is always in a directory (folder) called the **working directory**.
 * Absolute paths start with `/` and define a complete path to a file. 
 	* Example: `/home/user/Desktop`
 * Relative paths are resolved according to the current directory. 
-	* `./Desktop` ad
+	* `./Desktop` and `Desktop` will both look for the Desktop file within the current directory.
+	* `../Desktop` will look for the Desktop file one directory UP.
 
 
 
@@ -80,9 +81,9 @@ The terminal is always in a directory (folder) called the **working directory**.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTAyMTEwOCwxMzU0MzQxMjkyLC0zNz
-k4NTE5MDksLTE3MjkzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3
-NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLT
-MyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1
-Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbLTQ4MjY4NDU2LDEzNTQzNDEyOTIsLTM3OT
+g1MTkwOSwtMTcyOTMzNTE2OSwtMTIwNDg3MzI2MSw3NTg0OTc2
+NTIsMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2NCwtMz
+I2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwODE1OTU3
+OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
 -->
