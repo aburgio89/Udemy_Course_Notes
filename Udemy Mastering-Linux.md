@@ -52,6 +52,8 @@ A basic command structure is `command` `option` `argument`
 * The up/down arrows can be used to navigate through previously entered commands. 
 
 The terminal is always in a directory (folder) called the working directory. This is where commands are operating. 
+* The `pwd` command stands for print working directory. This prints the folder path. 
+	* Linux does not have drive letters (C:, D:, etc.). 
 
 
 
@@ -62,9 +64,9 @@ The terminal is always in a directory (folder) called the working directory. Thi
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4OTQ5ODg5LC0zNzk4NTE5MDksLTE3Mj
-kzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mzg2Njkw
-MDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMD
-UxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYz
-NDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbMTA4ODQ3Mjg4MiwtMzc5ODUxOTA5LC0xNz
+I5MzM1MTY5LC0xMjA0ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5
+MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMT
+A1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2
+MzQyLDEyODU0ODMxNTldfQ==
 -->
