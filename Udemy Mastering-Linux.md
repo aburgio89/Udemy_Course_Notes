@@ -29,7 +29,7 @@ Symptoms:
 * Got through several times to desktop but install would not load.
 * Performance showed memory usage at steady 77-80%. 
 
- **Verdict:** Windows security feature "memory integrity" causing a conflict with VirtualBox. This feature was disabled, the PC reset, and Ubuntu loaded properly (albeit slowly) on the next attempt. 
+ **Verdict:** Windows virtualization security features forcing Windows default hypervisor? Disabled memory integrity and auto-hypervisor regedit settings. 
 ___
 
 CLI: `sudo apt update` -Checks for updates and downloads.
@@ -44,7 +44,8 @@ CLI: `sudo apt full-upgrade` -Installs updates.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0Nj
-M0MzQ2NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4
-LDEwODE1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbNzU4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MT
+E3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYz
+LDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NT
+Q4MzE1OV19
 -->
