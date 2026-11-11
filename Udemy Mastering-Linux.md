@@ -44,6 +44,7 @@ Terminal applications may looks slightly different across distros, but the struc
 Basic commands:
 * `echo` allows us to output text in the terminal.
 	* The outputted string needs to be in single quotes. 
+	* 
 
 
 
@@ -53,8 +54,9 @@ Basic commands:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkzMzUxNjksLTEyMDQ4NzMyNjEsNz
-U4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0
-NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMD
-gxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbLTE5NTYxNjQzMjEsLTE3MjkzMzUxNjksLT
+EyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MTE3
+Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYzLD
+IyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4
+MzE1OV19
 -->
