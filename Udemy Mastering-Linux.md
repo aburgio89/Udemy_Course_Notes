@@ -37,7 +37,7 @@ CLI: `sudo apt update` -Checks for updates and downloads.
 CLI: `sudo apt full-upgrade` -Installs updates. 
 
 ### Part 2: Bash and CLI
-
+Terminal applications may looks slightly different across distros, but the structure and syntax remains the same. 
 
 
 ### Part 3: Linux Concepts
@@ -46,8 +46,8 @@ CLI: `sudo apt full-upgrade` -Installs updates.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzUzMTM1NSwtMTIwNDg3MzI2MSw3NT
-g0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2
-NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwOD
-E1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbNTQ3MzEzNTcyLC0xMjA0ODczMjYxLDc1OD
+Q5NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0
+LC0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MT
+U5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
