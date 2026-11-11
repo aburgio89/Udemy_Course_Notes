@@ -65,8 +65,11 @@ The terminal is always in a directory (folder) called the **working directory**.
 	* `ls -t` lists all entries, sorted by recent use
 	* `ls ~/path` will list the contents of a specific path
 
-Absolute vs. Relative Paths: 
-* Absolute paths start with `/` and define a complete
+**Absolute vs. Relative Paths:** 
+* Absolute paths start with `/` and define a complete path to a file. 
+	* Example: `/home/user/Desktop`
+* Relative paths are resolved according to the current directory. 
+	* `./Desktop` ad
 
 
 
@@ -77,7 +80,7 @@ Absolute vs. Relative Paths:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzM4NDkxNCwxMzU0MzQxMjkyLC0zNz
+eyJoaXN0b3J5IjpbLTM1OTAyMTEwOCwxMzU0MzQxMjkyLC0zNz
 k4NTE5MDksLTE3MjkzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3
 NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLT
 MyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1
