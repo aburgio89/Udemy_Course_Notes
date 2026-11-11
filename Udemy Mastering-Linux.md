@@ -26,7 +26,7 @@ ___
 Symptoms:
 * VirtualBox install of Ubuntu proceeded without issue, but running the VM caused various crashes. 
 * Received errors about incompatible hypervisor and graphics display.
-* Cha
+* Changing display settings seemed to fix issue, but VM running especially slow.
 * Performance showed memory usage at steady 77-80%. 
 
  **Verdict:** Windows virtualization security features forcing Windows default hypervisor in between VirtualBox and hardware. Annoying, seemingly not able to disable, built into firmware. 
@@ -45,8 +45,8 @@ CLI: `sudo apt full-upgrade` -Installs updates.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTcxNTQwNiw3NTg0OTc2NTIsMTczOD
-Y2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2NCwtMzI2OTE1MTYx
-LDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwODE1OTU3OTYsMTkyNz
-E0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbLTEyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mz
+g2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2
+MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5Mj
+cxNDYzNDIsMTI4NTQ4MzE1OV19
 -->
