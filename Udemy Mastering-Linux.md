@@ -50,7 +50,7 @@ A basic command structure is `command` `option` `argument`
 * Options can be combined: `echo -e -n 'line1 \nline2'`
 	* `-en` also works?
 * The up/down arrows can be used to navigate through previously entered commands. 
-* Multiple commands can be
+* Multiple commands may be entered with a semicolon between them. Example: `echo -n 'Test'; echo ' Test'` outputs `Test Test`
 
 The terminal is always in a directory (folder) called the **working directory**. This is where commands are operating. 
 * The `pwd` command stands for **print working directory**. This prints the folder path. 
@@ -84,9 +84,9 @@ The terminal is always in a directory (folder) called the **working directory**.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTMwOTE0NSwxMzU0MzQxMjkyLC0zNz
-k4NTE5MDksLTE3MjkzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3
-NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLT
-MyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1
-Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbLTEyODE0MzMwNzMsMTM1NDM0MTI5MiwtMz
+c5ODUxOTA5LC0xNzI5MzM1MTY5LC0xMjA0ODczMjYxLDc1ODQ5
+NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0LC
+0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5
+NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
