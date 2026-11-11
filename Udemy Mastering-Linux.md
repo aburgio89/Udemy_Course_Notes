@@ -60,6 +60,8 @@ The terminal is always in a directory (folder) called the **working directory**.
 	* `cd /` will change the working directory to the root folder. 
 	* `cd ..` navigates up one folder. You can do this multiple times: `cd ../../..`
 	* `cd ~` or just plain `cd` will navigate to the Home directory. 
+* The `ls` command will list the contents of the working directory. 
+	* `ls -a` lists all entries including hidden files.
 
 
 
@@ -70,9 +72,9 @@ The terminal is always in a directory (folder) called the **working directory**.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDM0MTI5MiwtMzc5ODUxOTA5LC0xNz
-I5MzM1MTY5LC0xMjA0ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5
-MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMT
-A1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2
-MzQyLDEyODU0ODMxNTldfQ==
+eyJoaXN0b3J5IjpbLTE3MTE0OTk4NjMsMTM1NDM0MTI5MiwtMz
+c5ODUxOTA5LC0xNzI5MzM1MTY5LC0xMjA0ODczMjYxLDc1ODQ5
+NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0LC
+0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5
+NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
 -->
