@@ -2,7 +2,7 @@
 
 ## IBM IT Systems Administration and Cloud Operations Professional Certificate
 
-"IT Estate
+The "IT Estate" includes all technology assets and resources an organization owns and/or uses to support its operations. This can include: servers, PCs, networking devices, software, cloud services, storage and virtualization and security controls. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjMxOTA5OF19
+eyJoaXN0b3J5IjpbLTIwNTQ5MTg0NjldfQ==
 -->
