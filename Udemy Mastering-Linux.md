@@ -63,7 +63,7 @@ The terminal is always in a directory (folder) called the **working directory**.
 * The `ls` command will list the contents of the working directory. 
 	* `ls -a` lists all entries including hidden files.
 	* `ls -t` lists all entries, sorted by recent use
-	* 
+	* `ls ~/path` will list the contents of a specific path
 
 
 
@@ -74,9 +74,9 @@ The terminal is always in a directory (folder) called the **working directory**.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTc3MzQ5NywxMzU0MzQxMjkyLC0zNz
-k4NTE5MDksLTE3MjkzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3
-NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLT
-MyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1
-Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbLTU4NzgwOTg2LDEzNTQzNDEyOTIsLTM3OT
+g1MTkwOSwtMTcyOTMzNTE2OSwtMTIwNDg3MzI2MSw3NTg0OTc2
+NTIsMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2NCwtMz
+I2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwODE1OTU3
+OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
 -->
