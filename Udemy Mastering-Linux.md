@@ -37,8 +37,13 @@ CLI: `sudo apt update` -Checks for updates and downloads.
 CLI: `sudo apt full-upgrade` -Installs updates. 
 
 ### Part 2: Bash and CLI
+
 Terminal applications may looks slightly different across distros, but the structure and syntax remains the same. 
 **Important**: Make sure you are using **BASH** as a default shell using the command `echo "${BASH_VERSION}"`. If no version is returned, use the command `bash`.
+
+Basic commands:
+* `echo` allows us to output text in the terminal.
+	* The outputted string needs to be in single quotes. 
 
 
 
@@ -48,8 +53,8 @@ Terminal applications may looks slightly different across distros, but the struc
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQwNTYxOCwtMTIwNDg3MzI2MSw3NT
-g0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2
-NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwOD
-E1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
+eyJoaXN0b3J5IjpbLTE3MjkzMzUxNjksLTEyMDQ4NzMyNjEsNz
+U4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC01NDYzNDM0
+NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMD
+gxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
 -->
