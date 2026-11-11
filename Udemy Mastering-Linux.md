@@ -42,6 +42,8 @@ Terminal applications may looks slightly different across distros, but the struc
 **Important**: Make sure you are using **BASH** as a default shell using the command `echo "${BASH_VERSION}"`. If no version is returned, use the command `bash`.
 
 Basic commands:
+
+A basic command structure is `command` `option` `argument`
 * `echo` allows us to output text in the terminal.
 	* The outputted string needs to be in single quotes. 
 	* By default, echo outputs a new line. This can be disabled with the syntax: `echo -n 'text'`
@@ -55,9 +57,9 @@ Basic commands:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mzc1NzI2NCwtMTcyOTMzNTE2OSwtMT
-IwNDg3MzI2MSw3NTg0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3
-NzcsLTU0NjM0MzQ2NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMj
-I2MzE0NTk4LDEwODE1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgz
-MTU5XX0=
+eyJoaXN0b3J5IjpbODU4MTYxMTE4LC0xNzI5MzM1MTY5LC0xMj
+A0ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3
+NywtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMj
+YzMTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMx
+NTldfQ==
 -->
