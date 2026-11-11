@@ -32,6 +32,9 @@ Symptoms:
  **Verdict:** Windows security feature "memory integrity" causing a conflict with VirtualBox. This feature was disabled, the PC reset, and Ubuntu loaded properly (albeit slowly) on the next attempt. 
 ___
 
+CLI: `sudo apt update` -Checks for updates and downloads.
+CLI: `sudo apt full-upgrade` -Installs updates. 
+
 ### Part 2: Bash and CLI
 
 
@@ -41,7 +44,7 @@ ___
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MTE3Nzc3LC01NDYzNDM0NjQsLTMyNj
-kxNTE2MSwxMDUxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2
-LDE5MjcxNDYzNDIsMTI4NTQ4MzE1OV19
+eyJoaXN0b3J5IjpbMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0Nj
+M0MzQ2NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4
+LDEwODE1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
 -->
