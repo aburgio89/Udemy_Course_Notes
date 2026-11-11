@@ -49,7 +49,8 @@ A basic command structure is `command` `option` `argument`
 	* The outputted string needs to be in single quotes. 
 	* By default, echo outputs a new line. This can be disabled with the option `-n`: `echo -n 'text'`
 	* the `-e` option allows for escapes: `echo -e 'line1 \n line2'`
-* 
+* Options can be combined: `echo -e -n 'line1 \nline2'`
+	* `-en` also works?
 * The up/down arrows can be used to navigate through previously entered commands. 
 
 
@@ -60,9 +61,9 @@ A basic command structure is `command` `option` `argument`
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NDg1MzMyLC0xNzI5MzM1MTY5LC0xMj
-A0ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3
-NywtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMj
-YzMTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMx
-NTldfQ==
+eyJoaXN0b3J5IjpbLTM3OTg1MTkwOSwtMTcyOTMzNTE2OSwtMT
+IwNDg3MzI2MSw3NTg0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3
+NzcsLTU0NjM0MzQ2NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMj
+I2MzE0NTk4LDEwODE1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgz
+MTU5XX0=
 -->
