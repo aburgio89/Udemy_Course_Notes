@@ -76,15 +76,16 @@ The terminal is always in a directory (folder) called the **working directory**.
 	* `../Desktop` will look for the Desktop file one directory UP.
 
 
-
-
 ### Part 3: Linux Concepts
+
+User management:
+
 
 
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDMyMDk5MiwtMTI4MTQzMzA3MywxMz
+eyJoaXN0b3J5IjpbLTMzNTk4MDg0NCwtMTI4MTQzMzA3MywxMz
 U0MzQxMjkyLC0zNzk4NTE5MDksLTE3MjkzMzUxNjksLTEyMDQ4
 NzMyNjEsNzU4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC
 01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMx
