@@ -52,7 +52,7 @@ A basic command structure is `command` `option` `argument`
 * The up/down arrows can be used to navigate through previously entered commands. 
 * Multiple commands may be entered with a semicolon between them. Example: `echo -n 'Test'; echo ' Test'` outputs `Test Test`
 * `--help` provides documentation on possible arguments and options.
-* `ma
+* `man` will print a manual for the command, example `man pwd`.
 
 The terminal is always in a directory (folder) called the **working directory**. This is where commands are operating. 
 * The `pwd` command stands for **print working directory**. This prints the folder path. 
@@ -84,7 +84,7 @@ The terminal is always in a directory (folder) called the **working directory**.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDYyMTMzMiwtMTI4MTQzMzA3MywxMz
+eyJoaXN0b3J5IjpbLTcxMDMyMDk5MiwtMTI4MTQzMzA3MywxMz
 U0MzQxMjkyLC0zNzk4NTE5MDksLTE3MjkzMzUxNjksLTEyMDQ4
 NzMyNjEsNzU4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MTE3Nzc3LC
 01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYzLDIyNjMx
