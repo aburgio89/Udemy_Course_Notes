@@ -58,6 +58,8 @@ The terminal is always in a directory (folder) called the working directory. Thi
 * The `cd` command stands for **change directory**. 
 	* Example, `cd Desktop` would move the terminal to the Desktop.
 	* `cd /` will change the working directory to the root folder. 
+	* `cd ..` navigates up one folder. You can do this multiple times: `cd ../../..`
+	* `cd ~` or just plain `cd
 
 
 
@@ -68,7 +70,7 @@ The terminal is always in a directory (folder) called the working directory. Thi
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NzEwMjUxLC0zNzk4NTE5MDksLTE3Mj
+eyJoaXN0b3J5IjpbLTI4NjgyODQzLC0zNzk4NTE5MDksLTE3Mj
 kzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mzg2Njkw
 MDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMD
 UxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYz
