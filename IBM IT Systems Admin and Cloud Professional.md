@@ -9,7 +9,9 @@ Three defining questions will help us structure an unfamiliar estate:
 2. Who owns it?
 3. Where does the boundary end?
 
+When faced with an unfamiliar and undefined estate, utilize the following steps:
+1. Define the boundaries of the estate so that the data collected is subjective. 
+2.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM2MTAwMTcsLTE1OTg1OTE0MTFdfQ
-==
+eyJoaXN0b3J5IjpbNzIwODg5NSwtMTU5ODU5MTQxMV19
 -->
