@@ -55,7 +55,7 @@ A basic command structure is `command` `option` `argument`
 The terminal is always in a directory (folder) called the **working directory**. This is where commands are operating. 
 * The `pwd` command stands for **print working directory**. This prints the folder path. 
 	* Linux does not have drive letters (C:/, D:/, etc.). The most basic "layer" is the **root folder**.
-	* By default, if the prompt starts with a tilde `~$`, you are in the root directory. 
+	* By default, if the prompt starts with a tilde `~$`, you are in the home directory. 
 * The `cd` command stands for **change directory**. 
 	* Example, `cd Desktop` would move the terminal to the Desktop.
 	* `cd /` will change the working directory to the root folder. 
@@ -73,7 +73,7 @@ The terminal is always in a directory (folder) called the **working directory**.
 	* `./Desktop` and `Desktop` will both look for the Desktop file within the current directory.
 	* `../Desktop` will look for the Desktop file one directory UP.
 
-
+* `--help` provide
 
 
 
@@ -84,9 +84,10 @@ The terminal is always in a directory (folder) called the **working directory**.
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE0MzMwNzMsMTM1NDM0MTI5MiwtMz
-c5ODUxOTA5LC0xNzI5MzM1MTY5LC0xMjA0ODczMjYxLDc1ODQ5
-NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3NywtNTQ2MzQzNDY0LC
-0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMjYzMTQ1OTgsMTA4MTU5
-NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNTldfQ==
+eyJoaXN0b3J5IjpbLTExNDU3MDYyMzgsLTEyODE0MzMwNzMsMT
+M1NDM0MTI5MiwtMzc5ODUxOTA5LC0xNzI5MzM1MTY5LC0xMjA0
+ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3Ny
+wtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMjYz
+MTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMxNT
+ldfQ==
 -->
