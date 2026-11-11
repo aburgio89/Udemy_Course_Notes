@@ -8,6 +8,8 @@ Three defining questions will help us structure an unfamiliar estate:
 1. What counts as an asset?
 2. Who owns it?
 3. Where does the boundary end?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNzMwMDk3XX0=
+eyJoaXN0b3J5IjpbLTE1OTg1OTE0MTFdfQ==
 -->
