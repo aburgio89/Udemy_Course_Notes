@@ -11,7 +11,8 @@ Three defining questions will help us structure an unfamiliar estate:
 
 When faced with an unfamiliar and undefined estate, utilize the following steps:
 1. Define the boundaries of the estate so that the data collected is subjective. 
-2.  
+2. Define each asset as a single item in an environment that can be told apart from any other item and pointed at on its own. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwODg5NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NT
+kxNDExXX0=
 -->
