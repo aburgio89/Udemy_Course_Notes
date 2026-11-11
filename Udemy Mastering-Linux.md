@@ -44,9 +44,11 @@ Terminal applications may looks slightly different across distros, but the struc
 Basic commands:
 
 A basic command structure is `command` `option` `argument`
+* `clear` clears the terminal.
 * `echo` allows us to output text in the terminal.
 	* The outputted string needs to be in single quotes. 
 	* By default, echo outputs a new line. This can be disabled with the syntax: `echo -n 'text'`
+	* t
 * The up/down arrows can be used to navigate through previously entered commands. 
 
 
@@ -57,7 +59,7 @@ A basic command structure is `command` `option` `argument`
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MTYxMTE4LC0xNzI5MzM1MTY5LC0xMj
+eyJoaXN0b3J5IjpbMjE1MjYyMTMwLC0xNzI5MzM1MTY5LC0xMj
 A0ODczMjYxLDc1ODQ5NzY1MiwxNzM4NjY5MDA4LDgxODExNzc3
 NywtNTQ2MzQzNDY0LC0zMjY5MTUxNjEsMTA1MTQ4NjM2MywyMj
 YzMTQ1OTgsMTA4MTU5NTc5NiwxOTI3MTQ2MzQyLDEyODU0ODMx
