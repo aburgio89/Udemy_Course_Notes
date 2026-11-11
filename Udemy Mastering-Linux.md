@@ -38,7 +38,8 @@ CLI: `sudo apt full-upgrade` -Installs updates.
 
 ### Part 2: Bash and CLI
 Terminal applications may looks slightly different across distros, but the structure and syntax remains the same. 
-**Important**: Make sure you are using **BASH** as a default shell using the command `
+**Important**: Make sure you are using **BASH** as a default shell using the command `echo "${BASH_VERSION}"`.
+
 
 
 ### Part 3: Linux Concepts
@@ -47,7 +48,7 @@ Terminal applications may looks slightly different across distros, but the struc
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODI1MTc3MiwtMTIwNDg3MzI2MSw3NT
+eyJoaXN0b3J5IjpbMTMxOTk0MjQ1OCwtMTIwNDg3MzI2MSw3NT
 g0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3NzcsLTU0NjM0MzQ2
 NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMjI2MzE0NTk4LDEwOD
 E1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgzMTU5XX0=
