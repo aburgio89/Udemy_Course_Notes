@@ -44,7 +44,8 @@ Terminal applications may looks slightly different across distros, but the struc
 Basic commands:
 * `echo` allows us to output text in the terminal.
 	* The outputted string needs to be in single quotes. 
-	* 
+	* By default, echo outputs a new line. This can be disabled with the syntax: `echo -n 'text'`
+* The up/down arrows can be used to navigate through previously entered commands. 
 
 
 
@@ -54,9 +55,9 @@ Basic commands:
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYxNjQzMjEsLTE3MjkzMzUxNjksLT
-EyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mzg2NjkwMDgsODE4MTE3
-Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMDUxNDg2MzYzLD
-IyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYzNDIsMTI4NTQ4
-MzE1OV19
+eyJoaXN0b3J5IjpbMTk1Mzc1NzI2NCwtMTcyOTMzNTE2OSwtMT
+IwNDg3MzI2MSw3NTg0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3
+NzcsLTU0NjM0MzQ2NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMj
+I2MzE0NTk4LDEwODE1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgz
+MTU5XX0=
 -->
