@@ -41,8 +41,6 @@ CLI: `sudo apt full-upgrade` -Installs updates.
 Terminal applications may looks slightly different across distros, but the structure and syntax remains the same. 
 **Important**: Make sure you are using **BASH** as a default shell using the command `echo "${BASH_VERSION}"`. If no version is returned, use the command `bash`.
 
-Basic commands:
-
 A basic command structure is `command` `option` `argument`
 * `clear` clears the terminal.
 * `echo` allows us to output text in the terminal.
@@ -53,6 +51,9 @@ A basic command structure is `command` `option` `argument`
 	* `-en` also works?
 * The up/down arrows can be used to navigate through previously entered commands. 
 
+The terminal is always in a directory (folder) called the working directory. This is where commands are operating. 
+
+
 
 
 ### Part 3: Linux Concepts
@@ -61,9 +62,9 @@ A basic command structure is `command` `option` `argument`
 ### Part 4: Advanced Bash
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTg1MTkwOSwtMTcyOTMzNTE2OSwtMT
-IwNDg3MzI2MSw3NTg0OTc2NTIsMTczODY2OTAwOCw4MTgxMTc3
-NzcsLTU0NjM0MzQ2NCwtMzI2OTE1MTYxLDEwNTE0ODYzNjMsMj
-I2MzE0NTk4LDEwODE1OTU3OTYsMTkyNzE0NjM0MiwxMjg1NDgz
-MTU5XX0=
+eyJoaXN0b3J5IjpbOTE4OTQ5ODg5LC0zNzk4NTE5MDksLTE3Mj
+kzMzUxNjksLTEyMDQ4NzMyNjEsNzU4NDk3NjUyLDE3Mzg2Njkw
+MDgsODE4MTE3Nzc3LC01NDYzNDM0NjQsLTMyNjkxNTE2MSwxMD
+UxNDg2MzYzLDIyNjMxNDU5OCwxMDgxNTk1Nzk2LDE5MjcxNDYz
+NDIsMTI4NTQ4MzE1OV19
 -->
