@@ -22,14 +22,14 @@ When faced with an unfamiliar and undefined estate:
 * Assets may be counted by different approaches, but the approach must be chosen before the count begins. 
 
 **Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset nor the budget that purchased it. 
-* 
 
 **Discovery**: Any method by which you learn that something in the environment exists. Every method has a matching blind spot. 
 
+* A scope boundary defines
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NT
-g2OTc5LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1
-LC02NjE5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NT
-kxNDExXX0=
+eyJoaXN0b3J5IjpbMzI2MzQzMzE2LDIwNzQxNjYxMjksMTU1MD
+Q0MTM3LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwt
+MTg5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwOD
+g5NSwtMTU5ODU5MTQxMV19
 -->
