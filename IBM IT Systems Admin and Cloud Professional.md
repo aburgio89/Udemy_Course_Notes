@@ -22,12 +22,14 @@ When faced with an unfamiliar and undefined estate:
 * Assets may be counted by different approaches, but the approach must be chosen before the count begins. 
 
 **Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset nor the budget that purchased it. 
+* 
 
 **Discovery**: Any method by which you learn that something in the environment exists. Every method has a matching blind spot. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MDExMT
-ExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4NzI5
-LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NT
+g2OTc5LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1
+LC02NjE5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NT
+kxNDExXX0=
 -->
