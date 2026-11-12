@@ -14,9 +14,14 @@ When faced with an unfamiliar and undefined estate:
 * Define each asset as a single item in an environment that can be told apart from any other item and pointed at on its own.
 * Define discovery routes and blind spots. Which routes are available and what can they possible miss? 
 * Define accountable roles, as in who is responsible for assets within the company. Defining owners provides crucial context and accountability. 
-* 
+
+**Asset**:
+
+**Asset owner**:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNj
-YxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQx
-MV19
+eyJoaXN0b3J5IjpbLTE0NjE2MDkzMDUsLTQ5NjUzMzM2NCwtMT
+g5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5
+NSwtMTU5ODU5MTQxMV19
 -->
