@@ -17,11 +17,11 @@ When faced with an unfamiliar and undefined estate:
 
 **Asset**: A single thing in the environment that can be told apart from every other thing and pointed out on its own: a host, a service, a volume, an application.
 
-**Asset owner**:
+**Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset no
 
 **Discovery**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMTExMTE3LC00OTY1MzMzNjQsLTE4OT
-IxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMDg4OTUs
-LTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTE4MDY4MTcsNjAxMTExMTE3LC00OT
+Y1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5
+NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
 -->
