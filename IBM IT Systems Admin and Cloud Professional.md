@@ -17,11 +17,11 @@ When faced with an unfamiliar and undefined estate:
 
 **Asset**: A single thing in the environment that can be told apart from every other thing and pointed out on its own: a host, a service, a volume, an application.
 
-**Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset no
+**Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset nor the budget that purchased it. 
 
-**Discovery**:
+**Discovery**: Any method by which you learn that something in the environment exists. Every method has a matching blind spot. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE4MDY4MTcsNjAxMTExMTE3LC00OT
-Y1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5
-NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NT
+MzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQz
+Miw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
 -->
