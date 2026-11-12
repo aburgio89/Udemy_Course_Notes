@@ -13,7 +13,10 @@ When faced with an unfamiliar and undefined estate:
 * Define the boundaries of the estate so that the data collected is subjective.  
 * Define each asset as a single item in an environment that can be told apart from any other item and pointed at on its own.
 * Define discovery routes and blind spots. Which routes are available and what can they possible miss? 
+* Define accountable roles, as in who is responsible for assets within the company. Defining owners provides crucial context and accountability. 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtOD
-A5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNj
+YxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQx
+MV19
 -->
