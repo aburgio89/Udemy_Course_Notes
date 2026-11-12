@@ -15,13 +15,13 @@ When faced with an unfamiliar and undefined estate:
 * Define discovery routes and blind spots. Which routes are available and what can they possible miss? 
 * Define accountable roles, as in who is responsible for assets within the company. Defining owners provides crucial context and accountability. 
 
-**Asset**:
+**Asset**: A single thing in the environment that can be told apart from every other thing and pointed out on its own: a host, a service, a volume, an application.
 
 **Asset owner**:
 
-
+**Discovery**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE2MDkzMDUsLTQ5NjUzMzM2NCwtMT
-g5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5
-NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbNjAxMTExMTE3LC00OTY1MzMzNjQsLTE4OT
+IxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMDg4OTUs
+LTE1OTg1OTE0MTFdfQ==
 -->
