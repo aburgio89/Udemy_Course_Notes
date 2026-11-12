@@ -12,8 +12,8 @@ Three defining questions will help us structure an unfamiliar estate:
 When faced with an unfamiliar and undefined estate:
 * Define the boundaries of the estate so that the data collected is subjective.  
 * Define each asset as a single item in an environment that can be told apart from any other item and pointed at on its own.
-* Define discovery routes and blind spots
+* Define discovery routes and blind spots. Which routes are available and what can they possible miss? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNTYwNjE0LC02NjE5NTg3MjksLTgwOT
-IyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
+eyJoaXN0b3J5IjpbLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtOD
+A5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
 -->
