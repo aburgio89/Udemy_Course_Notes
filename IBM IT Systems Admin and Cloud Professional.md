@@ -25,11 +25,12 @@ When faced with an unfamiliar and undefined estate:
 
 **Discovery**: Any method by which you learn that something in the environment exists. Every method has a matching blind spot. 
 
-* A scope boundary defines
+**Scope boundaries**: Define which parts of an organization are included in an inventory. May identify a physical site, a platform or tech stack, an environment, or a category of assets. 
+* The scope boundary must be defined before counting begins. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MzQzMzE2LDIwNzQxNjYxMjksMTU1MD
-Q0MTM3LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwt
-MTg5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwOD
-g5NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbLTE5NjA0NDY1ODksMjA3NDE2NjEyOSwxNT
+UwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NTMzMzY0
+LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQzMiw3Mj
+A4ODk1LC0xNTk4NTkxNDExXX0=
 -->
