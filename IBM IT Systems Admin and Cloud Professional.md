@@ -18,7 +18,8 @@ When faced with an unfamiliar and undefined estate:
 * Define accountable roles, as in who is responsible for assets within the company. Defining owners provides crucial context and accountability. 
 
 **Asset**: A single thing in the environment that can be told apart from every other thing and pointed out on its own: a host, a service, a volume, an application.
-* Each asset needs identifying de
+* Each asset needs identifying details such as version, address, or associated system.
+* Assets may be counted by different approaches, but the approach must be chosen before the count begins. 
 
 **Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset nor the budget that purchased it. 
 
@@ -26,7 +27,7 @@ When faced with an unfamiliar and undefined estate:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjUyODA1OSw2MjY1ODY5NzksNjAxMT
-ExMTE3LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcy
-OSwtODA5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MDExMT
+ExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4NzI5
+LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQxMV19
 -->
