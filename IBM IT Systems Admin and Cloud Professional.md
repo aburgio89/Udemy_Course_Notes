@@ -24,13 +24,15 @@ When faced with an unfamiliar and undefined estate:
 **Asset owner**: The role accountable for the asset, what it does, its condition and the decisions surrounding it. Not necessarily the heaviest user of the asset nor the budget that purchased it. 
 
 **Discovery**: Any method by which you learn that something in the environment exists. Every method has a matching blind spot. 
+* Self-reporting systems can identify only assets that are switched on and reachable. 
+* 
 
 **Scope boundaries**: Define which parts of an organization are included in an inventory. May identify a physical site, a platform or tech stack, an environment, or a category of assets. 
 * The scope boundary must be defined before counting begins.
 * An inventory's boundary should be defined in a single boundary statement. An example is "the inventory covers every device issued to full-time employees, and excludes devices issued to contractors and visitors". 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjEyNDQxOCwyMDc0MTY2MTI5LDE1NT
+eyJoaXN0b3J5IjpbMTc3Nzc0ODEzNywyMDc0MTY2MTI5LDE1NT
 A0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3LC00OTY1MzMzNjQs
 LTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMD
 g4OTUsLTE1OTg1OTE0MTFdfQ==
