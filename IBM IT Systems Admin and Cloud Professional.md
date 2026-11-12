@@ -10,9 +10,10 @@ Three defining questions will help us structure an unfamiliar estate:
 3. Where does the boundary end?
 
 When faced with an unfamiliar and undefined estate:
-1. Define the boundaries of the estate so that the data collected is subjective. 
-2. Define each asset as a single item in an environment that can be told apart from any other item and pointed at on its own. 
+* Define the boundaries of the estate so that the data collected is subjective.  
+* Define each asset as a single item in an environment that can be told apart from any other item and pointed at on its own.
+* Define discovery routes and blind spots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMD
-g4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbOTMwNTYwNjE0LC02NjE5NTg3MjksLTgwOT
+IyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
 -->
