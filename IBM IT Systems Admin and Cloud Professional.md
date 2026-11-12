@@ -26,11 +26,12 @@ When faced with an unfamiliar and undefined estate:
 **Discovery**: Any method by which you learn that something in the environment exists. Every method has a matching blind spot. 
 
 **Scope boundaries**: Define which parts of an organization are included in an inventory. May identify a physical site, a platform or tech stack, an environment, or a category of assets. 
-* The scope boundary must be defined before counting begins. 
+* The scope boundary must be defined before counting begins.
+* An inventory's boundary should be defined in a single boundary statement. An example is "the inventory covers every device issued to full-time employees, and excludes devices issued to contractors and visitors". 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0NDY1ODksMjA3NDE2NjEyOSwxNT
-UwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NTMzMzY0
-LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQzMiw3Mj
-A4ODk1LC0xNTk4NTkxNDExXX0=
+eyJoaXN0b3J5IjpbLTYxMjEyNDQxOCwyMDc0MTY2MTI5LDE1NT
+A0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3LC00OTY1MzMzNjQs
+LTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMD
+g4OTUsLTE1OTg1OTE0MTFdfQ==
 -->
