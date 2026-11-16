@@ -71,17 +71,18 @@ Quick terminology:
 	* Is the firewall rule/zone blocking the port?
 	* Is the service listening on the expected port?
 	* Does the service respond correctly?
+* Connectivity Record: A record of each condition checked, the result and any gaps still unresolved. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODg3NTE4NCwtMTk5MTYxNDA3LDExMj
-cxNjM1ODEsLTE1OTg5MjMwNyw5OTk1OTI1MDQsLTE4OTM3NzQ3
-NDgsMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOT
-g3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3
-OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNj
-YxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQx
-MV19
+eyJoaXN0b3J5IjpbNzUzOTgzNjExLC0xOTkxNjE0MDcsMTEyNz
+E2MzU4MSwtMTU5ODkyMzA3LDk5OTU5MjUwNCwtMTg5Mzc3NDc0
+OCwyODg5Nzg3MDUsLTEzMjQzNTQ3MTMsLTM4MjU5NTY4OSw5OD
+c4MzA0OTUsMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5
+LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1LC02Nj
+E5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDEx
+XX0=
 -->
