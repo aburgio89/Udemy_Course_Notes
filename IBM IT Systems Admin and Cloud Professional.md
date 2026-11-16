@@ -53,7 +53,12 @@ Quick terminology:
 * **Client** --> The device/program that makes a request. 
 * **Listening service** --> A service waiting for connections on a specific port. 
 * **Port** --> Number identifying which service on a host gets traffic. 
-	* IP is the building, port is the apartment
+>  IP is the building, port is the apartment.
+* **Protocol** --> Agreed upon rules for the conversation. 
+	* TCP -> Reliable, connection-based.
+	* UDP -> Fast, no guarantee of accuracy.
+	* Application protocols: HTTP, SSH, DNS, etc.
+	* 
 
 There are a number of reasons a page can fail to load:
 * DNS Failure
@@ -69,7 +74,7 @@ The following checks should be made to separate the possible causes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTg4MDY5MSwxMTI3MTYzNTgxLC0xNT
+eyJoaXN0b3J5IjpbMTc3OTUzNTc0MCwxMTI3MTYzNTgxLC0xNT
 k4OTIzMDcsOTk5NTkyNTA0LC0xODkzNzc0NzQ4LDI4ODk3ODcw
 NSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMD
 c0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3
