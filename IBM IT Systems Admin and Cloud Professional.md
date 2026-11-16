@@ -2,7 +2,7 @@
 
 # IBM IT Systems Administration and Cloud Operations Professional Certificate
 ## Foundations of IT Systems Administration
-#### Module 1: Read and Inventory an Environment
+#### Module 1: Read and Inventory an Environment / "What do we have?"
 
 The "IT Estate" includes all technology assets and resources an organization owns and/or uses to support its operations. This can include: servers, PCs, networking devices, software, cloud services, storage and virtualization and security controls. 
 
@@ -37,7 +37,8 @@ Th inventory register should contain these 6 essential fields:
 * Name, platform, ID, date, function, owner. 
 ___
 
-#### Module 2: Servers, Services, Clients and Network Basics
+#### Module 2: Servers, Services, Clients and Network Basics / "How does it all communicate?
+
 Five questions to diagnose any connection:
 * Which client is affected?
 * What name does it use -- and does it resolve correctly?
@@ -59,9 +60,10 @@ The following checks should be made to separate the possible causes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NTkyNTA0LC0xODkzNzc0NzQ4LDI4OD
-k3ODcwNSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5
-NSwyMDc0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMT
-ExMTE3LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcy
-OSwtODA5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1OTg5MjMwNyw5OTk1OTI1MDQsLTE4OT
+M3NzQ3NDgsMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2
+ODksOTg3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNj
+U4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMy
+NSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5OD
+U5MTQxMV19
 -->
