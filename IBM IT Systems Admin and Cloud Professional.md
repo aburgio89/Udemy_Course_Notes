@@ -80,20 +80,21 @@ Quick terminology:
 | 53 | UDP/TCP | DNS | Name resolution |
 | 80 | TCP | HTTP | Unencrypted web traffic |
 | 443 | TCP | HTTPS | Encrypted web traffic |
-| 445 | TCP |  |  |
-| 3389 |  |  |  |
-| 25 |  |  |  |
-| 67/68 |  |  |  |
+| 445 | TCP | SMB | Windows File Sharing |
+| 3389 | TCP | RDP | Remote Desktop (Windows) |
+| 25 | TCP | SMTP | Sending emails |
+| 67/68 | UDP | DHCP | Automated IP assignment |
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNDU4MTc3LC0xOTkxNjE0MDcsMTEyNz
-E2MzU4MSwtMTU5ODkyMzA3LDk5OTU5MjUwNCwtMTg5Mzc3NDc0
-OCwyODg5Nzg3MDUsLTEzMjQzNTQ3MTMsLTM4MjU5NTY4OSw5OD
-c4MzA0OTUsMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5
-LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1LC02Nj
-E5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDEx
-XX0=
+eyJoaXN0b3J5IjpbNTI5NDI0MjUsLTE5OTE2MTQwNywxMTI3MT
+YzNTgxLC0xNTk4OTIzMDcsOTk5NTkyNTA0LC0xODkzNzc0NzQ4
+LDI4ODk3ODcwNSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4Nz
+gzMDQ5NSwyMDc0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5Nzks
+NjAxMTExMTE3LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MT
+k1ODcyOSwtODA5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFd
+fQ==
 -->
