@@ -45,11 +45,15 @@ Five questions to diagnose any connection:
 * Is the service listening?
 * Which conditions are checked vs. still unknown?
 
-
+There are a number of reasons a page can fail to load:
+* DNS Failure
+* Unreachable Address
+* Firewall Block
+* No Service Answer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM3NzQ3NDgsMjg4OTc4NzA1LC0xMz
-I0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMwNDk1LDIwNzQxNjYx
-MjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5Nj
-UzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0
-MzIsNzIwODg5NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbLTEyOTUwMDI5ODksLTE4OTM3NzQ3NDgsMj
+g4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMw
+NDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MD
+ExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4
+NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQxMV19
 -->
