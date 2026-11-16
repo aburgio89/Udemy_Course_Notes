@@ -52,11 +52,14 @@ There are a number of reasons a page can fail to load:
 * No Service Answer
 
 The following checks should be made to separate the possible causes:
-* Identify the host
+* Identify the host and service running on it. 
+* Check the name/address returned by the client's resolver.
+* Check whether a request reaches the far end and does a response return?
+* Check whether the traffic is traveling 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM5MTY1OTgsLTE4OTM3NzQ3NDgsMj
+eyJoaXN0b3J5IjpbLTE2NjkyNDE2MjMsLTE4OTM3NzQ3NDgsMj
 g4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMw
 NDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MD
 ExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4
