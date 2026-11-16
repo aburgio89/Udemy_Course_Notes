@@ -1,8 +1,7 @@
 *Course link: https://www.coursera.org/specializations/ibm-it-systems-administration-and-cloud-operations
 
-## IBM IT Systems Administration and Cloud Operations Professional Certificate
-
-### Foundations of IT Systems Administration
+# IBM IT Systems Administration and Cloud Operations Professional Certificate
+## Foundations of IT Systems Administration
 #### Module 1: Read and Inventory an Environment
 
 The "IT Estate" includes all technology assets and resources an organization owns and/or uses to support its operations. This can include: servers, PCs, networking devices, software, cloud services, storage and virtualization and security controls. 
@@ -41,7 +40,7 @@ ___
 #### Module 2: Servers, Services, Clients and Network Basics
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzUyOTU3MiwyODg5Nzg3MDUsLTEzMj
+eyJoaXN0b3J5IjpbMjEyNDcwNDI5MiwyODg5Nzg3MDUsLTEzMj
 QzNTQ3MTMsLTM4MjU5NTY4OSw5ODc4MzA0OTUsMjA3NDE2NjEy
 OSwxNTUwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NT
 MzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQz
