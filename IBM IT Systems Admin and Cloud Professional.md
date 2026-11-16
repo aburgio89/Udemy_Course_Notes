@@ -72,6 +72,7 @@ Quick terminology:
 	* Is the service listening on the expected port?
 	* Does the service respond correctly?
 * Connectivity Record: A record of each condition checked, the result and any gaps still unresolved. 
+	* Keep results separate: Host result, process result, listening result, client-side result. Colleagues should be able to repeat the diagnosis.
 
 **Common ports to memorize:**
 | Port | Protocol | Service | Use
@@ -90,11 +91,11 @@ Quick terminology:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5NDI0MjUsLTE5OTE2MTQwNywxMTI3MT
-YzNTgxLC0xNTk4OTIzMDcsOTk5NTkyNTA0LC0xODkzNzc0NzQ4
-LDI4ODk3ODcwNSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4Nz
-gzMDQ5NSwyMDc0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5Nzks
-NjAxMTExMTE3LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MT
-k1ODcyOSwtODA5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFd
-fQ==
+eyJoaXN0b3J5IjpbLTExMTc4MzQxNCw1Mjk0MjQyNSwtMTk5MT
+YxNDA3LDExMjcxNjM1ODEsLTE1OTg5MjMwNyw5OTk1OTI1MDQs
+LTE4OTM3NzQ3NDgsMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zOD
+I1OTU2ODksOTg3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3
+LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5Mj
+E3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NV19
+
 -->
