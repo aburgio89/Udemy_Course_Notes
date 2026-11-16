@@ -48,7 +48,10 @@ Five questions to diagnose any connection:
 
 Quick terminology:
 * **Host** --> The machine itself, physical or virtual. A host has an IP address.
-* Service --> A program running on a host. One hst 
+* **Service** --> A program running on a host. One host can run many services. 
+* **Server** --> A host that provides services.
+* **Client** --> The device/program that makes a request. 
+* **Listening service** --> A service waiting for connections on a specific port. 
 
 There are a number of reasons a page can fail to load:
 * DNS Failure
@@ -64,10 +67,10 @@ The following checks should be made to separate the possible causes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1Mjc4OTU0LC0xNTk4OTIzMDcsOTk5NT
-kyNTA0LC0xODkzNzc0NzQ4LDI4ODk3ODcwNSwtMTMyNDM1NDcx
-MywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMDc0MTY2MTI5LDE1NT
-A0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3LC00OTY1MzMzNjQs
-LTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMD
-g4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbMTEyNzE2MzU4MSwtMTU5ODkyMzA3LDk5OT
+U5MjUwNCwtMTg5Mzc3NDc0OCwyODg5Nzg3MDUsLTEzMjQzNTQ3
+MTMsLTM4MjU5NTY4OSw5ODc4MzA0OTUsMjA3NDE2NjEyOSwxNT
+UwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NTMzMzY0
+LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQzMiw3Mj
+A4ODk1LC0xNTk4NTkxNDExXX0=
 -->
