@@ -38,11 +38,16 @@ Th inventory register should contain these 6 essential fields:
 ___
 
 #### Module 2: Servers, Services, Clients and Network Basics
-
+Five questions to diagnose any connection:
+* Which client is affected?
+* What name does it use -- and does it resolve correctly?
+* Can reaffic reach the host and port?
+* Is the service listening?
+* Which conditions are checked vs. still unknown?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDcwNDI5MiwyODg5Nzg3MDUsLTEzMj
-QzNTQ3MTMsLTM4MjU5NTY4OSw5ODc4MzA0OTUsMjA3NDE2NjEy
-OSwxNTUwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NT
-MzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQz
-Miw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
+eyJoaXN0b3J5IjpbNjEyMTIyMDM1LDI4ODk3ODcwNSwtMTMyND
+M1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMDc0MTY2MTI5
+LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3LC00OTY1Mz
+MzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMy
+LDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
 -->
