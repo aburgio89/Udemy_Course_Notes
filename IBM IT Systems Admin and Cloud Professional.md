@@ -57,8 +57,9 @@ Quick terminology:
 * **Protocol** --> Agreed upon rules for the conversation. 
 	* TCP -> Reliable, connection-based.
 	* UDP -> Fast, no guarantee of accuracy.
-	* Application protocols: HTTP, SSH, DNS, etc.
-	* 
+* Name resolution --> Turning a website name (URL) into an IP address.
+* DNS (Domain Name System) --> The system that transmutes name resolutions.
+* Host
 
 There are a number of reasons a page can fail to load:
 * DNS Failure
@@ -74,10 +75,10 @@ The following checks should be made to separate the possible causes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTUzNTc0MCwxMTI3MTYzNTgxLC0xNT
-k4OTIzMDcsOTk5NTkyNTA0LC0xODkzNzc0NzQ4LDI4ODk3ODcw
-NSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMD
-c0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3
-LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtOD
-A5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ5NDQ0NTAsMTEyNzE2MzU4MSwtMT
+U5ODkyMzA3LDk5OTU5MjUwNCwtMTg5Mzc3NDc0OCwyODg5Nzg3
+MDUsLTEzMjQzNTQ3MTMsLTM4MjU5NTY4OSw5ODc4MzA0OTUsMj
+A3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTEx
+NywtNDk2NTMzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLT
+gwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
 -->
