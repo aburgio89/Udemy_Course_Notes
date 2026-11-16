@@ -50,8 +50,12 @@ There are a number of reasons a page can fail to load:
 * Unreachable Address
 * Firewall Block
 * No Service Answer
+
+For firewall and service related causes, the Admin should confirm that the process is listening on the expected port, and that the active firewall zone is permitting traffic to that port or service. Traffic that is not permitted through the firewall is dropped
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUwMDI5ODksLTE4OTM3NzQ3NDgsMj
+eyJoaXN0b3J5IjpbLTE1OTQ4ODIzNDYsLTE4OTM3NzQ3NDgsMj
 g4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMw
 NDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MD
 ExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4
