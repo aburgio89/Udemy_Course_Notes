@@ -28,15 +28,14 @@ When faced with an unfamiliar and undefined estate:
 * Platform inventories can only identify assets visible within that platform.
 * Purchase records can only identify assets tracks through purchases. 
 * Handover notes can only identify prior recorded knowledge.
-* 
 
 **Scope boundaries**: Define which parts of an organization are included in an inventory. May identify a physical site, a platform or tech stack, an environment, or a category of assets. 
 * The scope boundary must be defined before counting begins.
 * An inventory's boundary should be defined in a single boundary statement. An example is "the inventory covers every device issued to full-time employees, and excludes devices issued to contractors and visitors". 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3ODMwNDk1LDIwNzQxNjYxMjksMTU1MD
-Q0MTM3LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwt
-MTg5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwOD
-g5NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbLTM4MjU5NTY4OSw5ODc4MzA0OTUsMjA3ND
+E2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywt
+NDk2NTMzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOT
+IyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
 -->
