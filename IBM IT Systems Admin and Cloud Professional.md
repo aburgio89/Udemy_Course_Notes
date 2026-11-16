@@ -34,11 +34,11 @@ When faced with an unfamiliar and undefined estate:
 * An inventory's boundary should be defined in a single boundary statement. An example is "the inventory covers every device issued to full-time employees, and excludes devices issued to contractors and visitors". 
 
 Th inventory register should contain these 6 essential fields:
-* Name, ID, function, 
+* Name, platform, ID, date, function, owner. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQzNTQ3MTMsLTM4MjU5NTY4OSw5OD
-c4MzA0OTUsMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5
-LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1LC02Nj
-E5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDEx
-XX0=
+eyJoaXN0b3J5IjpbMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zOD
+I1OTU2ODksOTg3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3
+LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5Mj
+E3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwt
+MTU5ODU5MTQxMV19
 -->
