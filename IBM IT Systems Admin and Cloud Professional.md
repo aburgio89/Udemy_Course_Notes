@@ -41,13 +41,13 @@ ___
 Five questions to diagnose any connection:
 * Which client is affected?
 * What name does it use -- and does it resolve correctly?
-* Can reaffic reach the host and port?
+* Can traffic reach the host and port?
 * Is the service listening?
 * Which conditions are checked vs. still unknown?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMTIyMDM1LDI4ODk3ODcwNSwtMTMyND
-M1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMDc0MTY2MTI5
-LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3LC00OTY1Mz
-MzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMy
-LDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NDIwNTI3MjgsMjg4OTc4NzA1LC0xMz
+I0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMwNDk1LDIwNzQxNjYx
+MjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5Nj
+UzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0
+MzIsNzIwODg5NSwtMTU5ODU5MTQxMV19
 -->
