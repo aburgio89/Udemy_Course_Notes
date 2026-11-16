@@ -3,6 +3,7 @@
 ## IBM IT Systems Administration and Cloud Operations Professional Certificate
 
 ### Foundations of IT Systems Administration
+#### Module 1: Read and Inventory an Environment
 
 The "IT Estate" includes all technology assets and resources an organization owns and/or uses to support its operations. This can include: servers, PCs, networking devices, software, cloud services, storage and virtualization and security controls. 
 
@@ -35,10 +36,14 @@ When faced with an unfamiliar and undefined estate:
 
 Th inventory register should contain these 6 essential fields:
 * Name, platform, ID, date, function, owner. 
+___
+
+#### Module 2: Servers, Services, Clients and Network Basics
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zOD
-I1OTU2ODksOTg3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3
-LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5Mj
-E3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwt
-MTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbLTQ1NzUyOTU3MiwyODg5Nzg3MDUsLTEzMj
+QzNTQ3MTMsLTM4MjU5NTY4OSw5ODc4MzA0OTUsMjA3NDE2NjEy
+OSwxNTUwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywtNDk2NT
+MzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOTIyOTQz
+Miw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
 -->
