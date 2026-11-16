@@ -44,8 +44,10 @@ Five questions to diagnose any connection:
 * Can traffic reach the host and port?
 * Is the service listening?
 * Which conditions are checked vs. still unknown?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIwNTI3MjgsMjg4OTc4NzA1LC0xMz
+eyJoaXN0b3J5IjpbLTE4OTM3NzQ3NDgsMjg4OTc4NzA1LC0xMz
 I0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMwNDk1LDIwNzQxNjYx
 MjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MDExMTExMTcsLTQ5Nj
 UzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4NzI5LC04MDkyMjk0
