@@ -46,6 +46,10 @@ Five questions to diagnose any connection:
 * Is the service listening?
 * Which conditions are checked vs. still unknown?
 
+Quick terminology:
+* **Host** --> The machine itself, physical or virtual. A host has an IP address.
+* Service --> A program running on a host. One hst 
+
 There are a number of reasons a page can fail to load:
 * DNS Failure
 * Unreachable Address
@@ -60,10 +64,10 @@ The following checks should be made to separate the possible causes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg5MjMwNyw5OTk1OTI1MDQsLTE4OT
-M3NzQ3NDgsMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2
-ODksOTg3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNj
-U4Njk3OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMy
-NSwtNjYxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5OD
-U5MTQxMV19
+eyJoaXN0b3J5IjpbNDU1Mjc4OTU0LC0xNTk4OTIzMDcsOTk5NT
+kyNTA0LC0xODkzNzc0NzQ4LDI4ODk3ODcwNSwtMTMyNDM1NDcx
+MywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMDc0MTY2MTI5LDE1NT
+A0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3LC00OTY1MzMzNjQs
+LTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtODA5MjI5NDMyLDcyMD
+g4OTUsLTE1OTg1OTE0MTFdfQ==
 -->
