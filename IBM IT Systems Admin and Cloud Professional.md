@@ -59,7 +59,8 @@ Quick terminology:
 	* UDP -> Fast, no guarantee of accuracy.
 * **Name resolution** --> Turning a website name (URL) into an IP address.
 * **DNS (Domain Name System)** --> The system that transmutes name resolutions.
-* Layered thinking: Every request passes through layers (name 
+* Layered thinking: Every request passes through layers (name -> IP -> route -> firewall -> port -> service). This approach addresses each layer to figure out which layer failed and who can fix it. 
+	* Does the name resol
 
 There are a number of reasons a page can fail to load:
 * DNS Failure
@@ -75,10 +76,11 @@ The following checks should be made to separate the possible causes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE2MTQwNywxMTI3MTYzNTgxLC0xNT
-k4OTIzMDcsOTk5NTkyNTA0LC0xODkzNzc0NzQ4LDI4ODk3ODcw
-NSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5NSwyMD
-c0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMTExMTE3
-LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcyOSwtOD
-A5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
+eyJoaXN0b3J5IjpbLTU4OTMwNzY4MCwtMTk5MTYxNDA3LDExMj
+cxNjM1ODEsLTE1OTg5MjMwNyw5OTk1OTI1MDQsLTE4OTM3NzQ3
+NDgsMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOT
+g3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3
+OSw2MDExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNj
+YxOTU4NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQx
+MV19
 -->
