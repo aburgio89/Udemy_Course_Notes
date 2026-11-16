@@ -46,6 +46,12 @@ Five questions to diagnose any connection:
 * Is the service listening?
 * Which conditions are checked vs. still unknown?
 
+There are a number of reasons a page can fail to load:
+* DNS Failure
+* Unreachable Address
+* Firewall Block
+* No Service Answer
+
 Quick terminology:
 * **Host** --> The machine itself, physical or virtual. A host has an IP address.
 * **Service** --> A program running on a host. One host can run many services. 
@@ -59,24 +65,19 @@ Quick terminology:
 	* UDP -> Fast, no guarantee of accuracy.
 * **Name resolution** --> Turning a website name (URL) into an IP address.
 * **DNS (Domain Name System)** --> The system that transmutes name resolutions.
-* Layered thinking: Every request passes through layers (name -> IP -> route -> firewall -> port -> service). This approach addresses each layer to figure out which layer failed and who can fix it. 
-	* Does the name resol
+* **Layered thinking**: Every request passes through layers (name -> IP -> route -> firewall -> port -> service). This approach addresses each layer to figure out which layer failed and who can fix it. 
+	* Does the name resolve and to the right IP?
+	* Can the client reach that IP at all?
+	* Is the firewall rule/zone blocking the port?
+	* Is the service listening on the expected port?
+	* Does the service respond correctly?
 
-There are a number of reasons a page can fail to load:
-* DNS Failure
-* Unreachable Address
-* Firewall Block
-* No Service Answer
 
-The following checks should be made to separate the possible causes:
-* Identify the host and service running on it. 
-* Check the name/address returned by the client's resolver.
-* Check whether a request reaches the far end and does a response return?
-* Check whether the traffic is permitted to the services port. 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTMwNzY4MCwtMTk5MTYxNDA3LDExMj
+eyJoaXN0b3J5IjpbLTQ4ODg3NTE4NCwtMTk5MTYxNDA3LDExMj
 cxNjM1ODEsLTE1OTg5MjMwNyw5OTk1OTI1MDQsLTE4OTM3NzQ3
 NDgsMjg4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOT
 g3ODMwNDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3
