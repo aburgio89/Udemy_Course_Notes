@@ -73,16 +73,23 @@ Quick terminology:
 	* Does the service respond correctly?
 * Connectivity Record: A record of each condition checked, the result and any gaps still unresolved. 
 
+**Common ports to memorize:**
+| Port | Protocol | Service | Use
+|--|--|--|--|
+| 22 | TCP | SSH | Secure remote login and file transfer |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzOTgzNjExLC0xOTkxNjE0MDcsMTEyNz
-E2MzU4MSwtMTU5ODkyMzA3LDk5OTU5MjUwNCwtMTg5Mzc3NDc0
-OCwyODg5Nzg3MDUsLTEzMjQzNTQ3MTMsLTM4MjU5NTY4OSw5OD
-c4MzA0OTUsMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5
-LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1LC02Nj
-E5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDEx
-XX0=
+eyJoaXN0b3J5IjpbLTE5MzI2NzM0NDcsLTE5OTE2MTQwNywxMT
+I3MTYzNTgxLC0xNTk4OTIzMDcsOTk5NTkyNTA0LC0xODkzNzc0
+NzQ4LDI4ODk3ODcwNSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LD
+k4NzgzMDQ5NSwyMDc0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5
+NzksNjAxMTExMTE3LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLT
+Y2MTk1ODcyOSwtODA5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0
+MTFdfQ==
 -->
