@@ -55,13 +55,13 @@ The following checks should be made to separate the possible causes:
 * Identify the host and service running on it. 
 * Check the name/address returned by the client's resolver.
 * Check whether a request reaches the far end and does a response return?
-* Check whether the traffic is traveling 
+* Check whether the traffic is permitted to the services port. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjkyNDE2MjMsLTE4OTM3NzQ3NDgsMj
-g4OTc4NzA1LC0xMzI0MzU0NzEzLC0zODI1OTU2ODksOTg3ODMw
-NDk1LDIwNzQxNjYxMjksMTU1MDQ0MTM3LDYyNjU4Njk3OSw2MD
-ExMTExMTcsLTQ5NjUzMzM2NCwtMTg5MjE3NzMyNSwtNjYxOTU4
-NzI5LC04MDkyMjk0MzIsNzIwODg5NSwtMTU5ODU5MTQxMV19
+eyJoaXN0b3J5IjpbOTk5NTkyNTA0LC0xODkzNzc0NzQ4LDI4OD
+k3ODcwNSwtMTMyNDM1NDcxMywtMzgyNTk1Njg5LDk4NzgzMDQ5
+NSwyMDc0MTY2MTI5LDE1NTA0NDEzNyw2MjY1ODY5NzksNjAxMT
+ExMTE3LC00OTY1MzMzNjQsLTE4OTIxNzczMjUsLTY2MTk1ODcy
+OSwtODA5MjI5NDMyLDcyMDg4OTUsLTE1OTg1OTE0MTFdfQ==
 -->
