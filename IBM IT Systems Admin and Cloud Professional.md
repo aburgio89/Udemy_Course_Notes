@@ -33,9 +33,12 @@ When faced with an unfamiliar and undefined estate:
 * The scope boundary must be defined before counting begins.
 * An inventory's boundary should be defined in a single boundary statement. An example is "the inventory covers every device issued to full-time employees, and excludes devices issued to contractors and visitors". 
 
+Th inventory register should contain these 6 essential fields:
+* Name, ID, function, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjU5NTY4OSw5ODc4MzA0OTUsMjA3ND
-E2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5LDYwMTExMTExNywt
-NDk2NTMzMzY0LC0xODkyMTc3MzI1LC02NjE5NTg3MjksLTgwOT
-IyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDExXX0=
+eyJoaXN0b3J5IjpbLTEzMjQzNTQ3MTMsLTM4MjU5NTY4OSw5OD
+c4MzA0OTUsMjA3NDE2NjEyOSwxNTUwNDQxMzcsNjI2NTg2OTc5
+LDYwMTExMTExNywtNDk2NTMzMzY0LC0xODkyMTc3MzI1LC02Nj
+E5NTg3MjksLTgwOTIyOTQzMiw3MjA4ODk1LC0xNTk4NTkxNDEx
+XX0=
 -->
